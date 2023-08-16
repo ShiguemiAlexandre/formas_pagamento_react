@@ -1,0 +1,22 @@
+.hud_card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+
+.h1_card {
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.39);
+    border-radius: 30px;
+    padding: 10px;
+    background-color: white;
+    color: #ff00a2;
+}
+
+.picpay {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.selecionar_card {
+    border-radius: 30px;
+}

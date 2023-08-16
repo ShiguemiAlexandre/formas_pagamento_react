@@ -5,10 +5,10 @@ import App from './App';
 
 // Configurando o React Routes
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Card from './routes/Card'
+import Card from './components/Card/Card'
 import Home from './routes/Home'
-import Pix from './routes/Pix'
-import Transf from './routes/Transfer'
+import Pix from './components/Pix/Pix'
+import Transf from './components/Transferencia/Transfer'
 
 const router = createBrowserRouter([
   {

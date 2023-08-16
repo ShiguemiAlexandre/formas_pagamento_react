@@ -6,10 +6,10 @@ function OptionsHud() {
             <Link to="/pix" className="button">
                 <button>Pix</button>
             </Link>
-            <Link to="transferencia" className="button">
+            <Link to="/transferencia" className="button">
                 <button>Transferência Bancária</button>
             </Link>
-            <Link to="card" className="button">
+            <Link to="/card" className="button">
                 <button>Cartão de crédito</button>
             </Link>
 
